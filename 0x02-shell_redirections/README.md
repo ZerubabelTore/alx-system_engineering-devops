@@ -8,4 +8,7 @@ This script display the contents in etc/passwd
 This script can display contents which are un to separet places /etc/passwd and /etc/hosts
 
 4. Last lines of a file
-This display can display the last 10 lines in the /etc/passwd 
+This display can display the last 10 lines in the /etc/passwd
+
+5. I'd prefer the first ones actually
+This script will print the first 10 lines of /etc/passwd 
